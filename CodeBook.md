@@ -39,4 +39,4 @@ Below is the list of those filtered feature set.
 
 ### Link to final transformed dataset 
 
-Link - 
+Link - https://github.com/rutvik11/UCI-HAR-Dataset---Cleaning-and-Combining/blob/master/tidydataset.txt
